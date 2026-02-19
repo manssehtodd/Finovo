@@ -9,8 +9,8 @@ export default defineConfig({
     react({
       babel: {
         plugins: [['babel-plugin-react-compiler']],
-        base: '/'
       },
+      base: '/',
     }),
     tailwindcss(),
     flowbiteReact()
