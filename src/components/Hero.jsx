@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 import { faArrowRight, faStar } from "@fortawesome/free-solid-svg-icons";
-import cards from "./../assets/images/cardsNull.png";
+import cards from "./../assets/images/cardsNull.PNG";
 import smallCard from "./../assets/images/smallCard.png";
 
 function Hero() {
