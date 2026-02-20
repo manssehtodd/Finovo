@@ -63,7 +63,7 @@ function Hero() {
             />
 
             {/* overlay card */}
-            <div className="absolute bottom-10 left-1/2 -translate-x-1/2 w-[80%] md:w-[70%] rounded-3xl bg-white/30 backdrop-blur-lg p-4 md:p-6 text-white text-center">
+            <div className="absolute md:bottom-10 bottom-3 left-1/2 -translate-x-1/2 w-[80%] md:w-[70%] rounded-3xl bg-white/30 backdrop-blur-lg p-4 md:p-6 text-white text-center">
               <h3 className="font-semibold text-lg md:text-2xl">
                 New Card Design
               </h3>
